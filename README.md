@@ -1,4 +1,7 @@
 # ml-mind-map
+
+使用xmind记录的学习笔记，仍在整理中
+
 ## 强化学习
 ![demo](https://raw.githubusercontent.com/Kailthen/ml-mind-map/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0.png)
 
